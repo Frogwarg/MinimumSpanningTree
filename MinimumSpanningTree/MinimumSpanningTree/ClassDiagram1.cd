@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MinimumSpanningTree.Graph">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAEAAAAAAAICBAABAAACAAgAAAAAAAQAAAEAAAAAA=</HashCode>
+      <FileName>Classes\Graph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinimumSpanningTree.Node">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABBAAAQAAAAAAAAAYAAAAIAACAgAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinimumSpanningTree.Connecter">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQEAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Connecter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinimumSpanningTree.DisjointSet">
+    <Position X="10.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAEAAIAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Classes\DisjointSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinimumSpanningTree.Exceptions">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Exceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
